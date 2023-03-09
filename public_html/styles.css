@@ -1,16 +1,36 @@
+/* Turns background to light sky blue color */
 {background-color: #87CEFA;
 }
+/* Makes border solid with a maroon color */
 p.special {
   border: 1px solid #800000;
 }
+/* Makes margin 100px when inside body */
 body {
   margin: 100px;
 }
+/* Gives image a dashed border and crimsion color */
 img {
   width: 50px;
   margin: 50px;
   border: .1px dashed #DC143C;
 }
+/* Gives 50px padding to a paragraph */
 p. {
   padding: 50px;
+}
+/* unvisited link */
+a:link {
+  color: #B22222;
+}
+/* mouse over link */
+a:hover {
+  color: #00008B;
+}
+/* Makes a link that is in a box and looks cool */
+a:link, a:visited {
+  background-color: #F0F8FF;
+  color: #000000;
+  padding: 10px;
+  text-decoration: none;
 }
