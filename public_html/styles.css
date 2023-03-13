@@ -1,13 +1,11 @@
-/* Turns background to light sky blue color */
-{background-color: #87CEFA;
-}
 /* Makes border solid with a maroon color */
 p.special {
   border: 1px solid #800000;
 }
-/* Makes margin 100px when inside body */
+/* Makes margin 100px when inside body and changes background color */
 body {
   margin: 100px;
+  background-color: #87CEFA;
 }
 /* Gives image a dashed border and crimsion color */
 img {
