@@ -9,9 +9,8 @@ body {
 }
 /* Gives image a dashed border and crimsion color */
 img {
-  width: 50px;
   margin: 50px;
-  border: .1px dashed #DC143C;
+  border: 1px dashed #DC143C;
 }
 /* Gives 50px padding to a paragraph */
 p. {
